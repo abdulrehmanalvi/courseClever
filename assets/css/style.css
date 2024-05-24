@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    height: 60px;
+    width: 100%;
+    background-color: pink;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.nav-list ul{
+    display: flex;
+}
