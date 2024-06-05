@@ -503,40 +503,45 @@ button {
 
 .card-image-icon{
     display: flex;
-    margin-top: 240px;
-    margin-left: px;
+    margin-top: 220px;
     position: absolute;
-    justify-content: space-between;
+    margin-left: 40px;
     height: 40px;
-    width: 140px;
+    width: 250px;
+    
 }
 
 .icon-1{
-    height: 60px;
-    width: 60px;
-    padding-right: 10px;
+    height: 50px;
+    width: 50px;
+    margin-right: 13px;
     background-color: #fff;
     border: 2px solid #fff;
+    border-radius: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
 .icon-2{
-    height: 60px;
-    width: 60px;
+    height: 50px;
+    width: 50px;
+    margin-right: 13px;
     background-color: #fff;
     border: 2px solid #fff;
+    border-radius: 100%;
+    padding-top: 8px;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
 .icon-3{
-    height: 60px;
-    width: 60px;
+    height: 50px;
+    width: 50px;
     background-color: #fff;
     border: 2px solid #fff;
+    border-radius: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
